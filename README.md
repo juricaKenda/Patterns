@@ -1,2 +1,2 @@
-# Patterns
-Simple but useful design patterns in Java
+# Singleton Design Pattern
+Simple but useful design pattern in Java
